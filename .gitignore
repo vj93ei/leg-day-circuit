@@ -1,0 +1,6 @@
+# Node or Python not required, but ignore common files
+.vscode/
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
